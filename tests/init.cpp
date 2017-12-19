@@ -2,6 +2,7 @@
 #include <catch.hpp>
 #include <iostream>
 #include <fstream>
+#include <math.h>
 
 SCENARIO("compute", "[compute]") {
 	std::ofstream fout("f2.txt");
