@@ -18,5 +18,5 @@ SCENARIO("compute", "[compute]") {
 	double hold;
 	init.compute();
 	hold = init.show();
-	REQUIRE(hold == 16.5714);
+	REQUIRE(hold == 16.5714285714);
 }
