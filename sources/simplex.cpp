@@ -1,6 +1,6 @@
 #include "simplex.hpp"
 
-dsimplex::simplex()
+simplex::simplex()
 {
 	rows = 0;
 	columns = 0;
