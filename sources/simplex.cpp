@@ -1,4 +1,4 @@
-#include "dicstra.hpp"
+#include "simplex.hpp"
 
 dsimplex::simplex()
 {
