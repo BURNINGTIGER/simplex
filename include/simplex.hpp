@@ -14,7 +14,7 @@ class simplex
 {
 public:
 	simplex();
-	simplex(std::ifstream);
+	simplex(std::ifstream&);
 	~simplex();
 	bool is_negative();
 	void print();
