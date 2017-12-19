@@ -8,7 +8,7 @@ simplex::simplex()
 
 }
 
-simplex::simplex(std::ifstream input)
+simplex::simplex(std::ifstream& input)
 {
 	if (!input)
 	{
